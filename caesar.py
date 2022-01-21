@@ -1,4 +1,3 @@
-import math
 def encrypt(key,plaintext):
     ciphertext=""
     #YOUR CODE HERE
